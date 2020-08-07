@@ -7,3 +7,4 @@ This repository contains some basic ML projects :
 5.  Project - K-Means Clustering & Recommendations System
 6.  Project - Linear Regression & House Price, Salary Prediction
 7.  Project - Logistic Regression Image Classification, Clean vs Dirty Room Project
+8.  Project - Naive Bayes, Text Processing & Spam Email Detection Project
